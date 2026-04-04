@@ -158,7 +158,7 @@ function closeAppAlert() {
 
 function openDownload() {
     // Navigate to download page or trigger download
-    window.open('https://antigravity.google/download', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/5pfg68b0tcqfnlw39t58i/Cineland.exe?rlkey=qlzcs45m2zo3ewxq17mub9vmx&st=dqabbgyi&dl=0', '_blank');
 }
 
 // ============================================
