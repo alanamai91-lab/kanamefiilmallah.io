@@ -158,7 +158,7 @@ function closeAppAlert() {
 
 function openDownload() {
     // Navigate to download page or trigger download
-    window.open('https://www.dropbox.com/scl/fi/biz8mrv7bud8j4s679xrn/Cineland.exe?rlkey=97ag924v6u9iylr9wzbnwl551&st=5v07nhmm&dl=1', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/0nttjk79xq0kkicxzx1th/Cineland.exe?rlkey=ke0xk1kziwytc8z73lky156el&st=72ij5nxn&dl=1', '_blank');
 }
 
 // ============================================
@@ -256,7 +256,7 @@ function openDownload() {
         });
 
     // İndirmeye git
-    window.open('https://www.dropbox.com/scl/fi/biz8mrv7bud8j4s679xrn/Cineland.exe?rlkey=97ag924v6u9iylr9wzbnwl551&st=5v07nhmm&dl=1', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/0nttjk79xq0kkicxzx1th/Cineland.exe?rlkey=ke0xk1kziwytc8z73lky156el&st=72ij5nxn&dl=1', '_blank');
 }
 
 // ============================================
